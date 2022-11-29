@@ -1,0 +1,22 @@
+{
+  "name": "cucumberjs",
+  "version": "1.0.0",
+  "description": "cucumber js demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavi99sandamini151/CucumberJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavi99sandamini151/CucumberJs/issues"
+  },
+  "homepage": "https://github.com/Pavi99sandamini151/CucumberJs#readme",
+  "devDependencies": {
+    "cucumber": "^6.0.7"
+  }
+}
